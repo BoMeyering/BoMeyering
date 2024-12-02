@@ -1,16 +1,44 @@
-## Hi there 👋
+# I'm Bo Meyering
 
-<!--
-**BoMeyering/BoMeyering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data scientist and developer working in plant breeding and basic plant sciences. I have experience in statistical modeling, meta-analysis, machine learning, and specialize in computer vision modeling. I love turning images into actionable insights through deep learning and morphological measurements.
 
-Here are some ideas to get you started:
+## Links to my stuff
+- [Personal Website](https://bomeyering.me)
+- [GitHub Repos](https://github.com/BoMeyering?tab=repositories)
+- [GitHub Gists](https://gist.github.com/BoMeyering)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My tech stack:
+- Pytorch
+- SciKitLearn
+- OpenCV
+- Numpy
+- Django
+- R Studio
+- PostgreSQL
+- Postman
+- Tidyverse
+- HTML/CSS/JS
+- NoSQL databases
+
+## Software:
+- Labelbox
+- AWS
+- Digital Ocean
+
+## Preferred OS:
+- Ubuntu/Debian
+
+## Skills:
+- Machine Learning
+- Image analysis
+- Linear modeling
+- Clustering
+- Dimensionality reduction
+- Database design and management
+- Applications design and development
+- Meta-analysis
+
+## What I'm currently learning
+- Structural equation modeling
+- Population matrix models
+- Django REST Framework
