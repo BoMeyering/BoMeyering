@@ -29,6 +29,7 @@ I am a data scientist and developer working in plant breeding and basic plant sc
 - Ubuntu/Debian
 
 ## Skills:
+- Deep Learning
 - Machine Learning
 - Image analysis
 - Linear modeling
