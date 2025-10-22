@@ -41,4 +41,5 @@ I am a data scientist and developer working in plant breeding and basic plant sc
 ## What I'm currently learning
 - Structural equation modeling
 - Population matrix models
+- Rust 🦀
 - Django REST Framework
