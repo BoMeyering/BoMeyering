@@ -2,16 +2,40 @@
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </head>
 
-![header](https://capsule-render.vercel.app/api?type=blur&color=ebcb8b&height=300&section=header&text=Bo%20Meyering&fontSize=90&fontColor=EBF4FF)
+![header](https://capsule-render.vercel.app/api?type=blur&color=ebcb8b&height=300&section=header&text=welcome&fontSize=90&fontColor=EBF4FF&fontAlignY=80&fontAlign=25)
 
-I am a data scientist and developer working in plant breeding and basic plant sciences. I have experience in deep learning, statistical modeling, meta-analysis, machine learning, with a special focus on computer vision modeling. I love turning images into actionable insights through deep learning and morphological measurements.
+I'm Bo Meyering - a data scientist and developer working in plant breeding and basic plant sciences. I have experience in deep learning, statistical modeling, meta-analysis, machine learning, with a special focus on computer vision modeling. I love turning images into actionable insights through deep learning and morphological measurements.
+
+```yaml
+name: Bo Meyering
+current_job: Applications Developer
+current_workplace: The Land Institute
+education:
+  - georgia_institute_of_technology:
+      degree: Ms Analytics
+      year: 2024
+      gpa: 3.91
+  - southeastern_university:
+      degree: Bs Biology
+      year: 2012
+      gpa: 3.975
+experience:
+  - the_land_institute:
+      position: Applications Developer
+      dates: May 2022 - present
+  - university_of_florida:
+      position: Biological Scientist III
+      dates: March 2016 - May 2022
+  - usda_ars_ushrl:
+      position: Biological Science Technician
+      start: March 2015 - March 2016
+```
 
 ## Links to my stuff
 - [Personal Website](https://bomeyering.me)
 - [GitHub Repos](https://github.com/BoMeyering?tab=repositories)
 - [GitHub Gists](https://gist.github.com/BoMeyering)
 
-## My tech stack:
 <h2>My Tech and Tool Stack</h2>
   <p style="background-color: #EBFEFF;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45"/>
