@@ -1,4 +1,4 @@
-# I'm Bo Meyering
+![header](https://capsule-render.vercel.app/api?type=blur&color=ebcb8b&height=300&section=header&text=Bo%20Meyering&fontSize=90&fontColor=EBF4FF)
 
 I am a data scientist and developer working in plant breeding and basic plant sciences. I have experience in deep learning, statistical modeling, meta-analysis, machine learning, with a special focus on computer vision modeling. I love turning images into actionable insights through deep learning and morphological measurements.
 
