@@ -1,6 +1,6 @@
 # I'm Bo Meyering
 
-I am a data scientist and developer working in plant breeding and basic plant sciences. I have experience in statistical modeling, meta-analysis, machine learning, and specialize in computer vision modeling. I love turning images into actionable insights through deep learning and morphological measurements.
+I am a data scientist and developer working in plant breeding and basic plant sciences. I have experience in deep learning, statistical modeling, meta-analysis, machine learning, with a special focus on computer vision modeling. I love turning images into actionable insights through deep learning and morphological measurements.
 
 ## Links to my stuff
 - [Personal Website](https://bomeyering.me)
@@ -41,6 +41,7 @@ I am a data scientist and developer working in plant breeding and basic plant sc
 
 ## What I'm currently learning
 - Structural equation modeling
+- Neo4j
 - Population matrix models
 - Rust 🦀
 - Django REST Framework
