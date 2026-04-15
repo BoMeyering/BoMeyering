@@ -93,3 +93,5 @@ experience:
 - Population matrix models
 - Rust 🦀
 - Django REST Framework
+
+*Soli Gloria Deo*
