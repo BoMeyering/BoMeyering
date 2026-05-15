@@ -8,8 +8,8 @@ I'm Bo Meyering - a data scientist and developer working in plant breeding and b
 
 ```yaml
 name: Bo Meyering
-current_job: Applications Developer
-current_workplace: The Land Institute
+current_job: Computer Vision Engineer
+current_workplace: Levatas
 education:
   - georgia_institute_of_technology:
       degree: Ms Analytics
@@ -20,9 +20,12 @@ education:
       year: 2012
       gpa: 3.975
 experience:
+  - levatas:
+      position: Computer Vision Engineer
+      dates: April 2026 - Present
   - the_land_institute:
       position: Applications Developer
-      dates: May 2022 - present
+      dates: May 2022 - March 2026
   - university_of_florida:
       position: Biological Scientist III
       dates: March 2016 - May 2022
@@ -79,6 +82,7 @@ experience:
 ## Skills:
 - Deep Learning
 - Machine Learning
+- Computer Vision                                  
 - Image analysis
 - Linear modeling
 - Clustering
@@ -88,7 +92,6 @@ experience:
 - Meta-analysis
 
 ## What I'm currently learning
-- Structural equation modeling
 - Neo4j
 - Population matrix models
 - Rust 🦀
