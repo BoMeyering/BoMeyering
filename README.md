@@ -20,8 +20,8 @@ education:
       year: 2012
       gpa: 3.975
 experience:
-  - levatas:
-      position: Computer Vision Engineer
+  - InFlightAI:
+      position: Senior Computer Vision Engineer
       dates: April 2026 - Present
   - the_land_institute:
       position: Applications Developer
